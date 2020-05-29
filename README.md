@@ -6,4 +6,4 @@
 
 > all css, js, material-css use it
 
-> 2020 @ Rajan-savaliya form the code base
+2020 @ Rajan-savaliya from the code base
